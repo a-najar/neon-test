@@ -1,0 +1,2 @@
+include ':app', ':neon-loader'
+rootProject.name='Neon'
